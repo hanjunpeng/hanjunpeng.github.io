@@ -1,7 +1,7 @@
 module.exports = {
   title: '博客 接口文档',
   description: '博客',
-  base: '/',
+  base: '/blog/',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
