@@ -1,0 +1,12 @@
+{
+  "name": "hjp.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hanjunpeng/hjp.github.io.git",
+  "author": "hjp <hanjunpeng@yeah.net>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "vuepress dev",
+    "build": "vuepress build"
+  }
+}
